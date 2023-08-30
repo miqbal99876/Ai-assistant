@@ -1,0 +1,1 @@
+export { default as WelcomeIcon } from './bot.png';
